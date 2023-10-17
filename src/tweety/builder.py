@@ -68,6 +68,7 @@ class UrlBuilder:
     URL_AUSER_GET_LIST_MEMBER = "https://twitter.com/i/api/graphql/WWxrex_8HmKW2dzlPnwtTg/ListMembers"  # noqa
     URL_AUSER_GET_LIST_TWEETS = "https://twitter.com/i/api/graphql/TXyJ3x6-VnEbkV09UzebUQ/ListLatestTweetsTimeline"  # noqa
     URL_AUSER_ADD_LIST_MEMBER = "https://twitter.com/i/api/graphql/sw71TVciw1b2nRwV6eDZNA/ListAddMember"  # noqa
+    URL_AUSER_REMOVE_LIST_MEMBER = "https://twitter.com/i/api/graphql/DsE0uIywHZ52-Itoq2dhSw/ListRemoveMember"  # noqa 
     URL_AUSER_CREATE_LIST = "https://twitter.com/i/api/graphql/nHFMQuE4PMED1R0JTN4d-Q/CreateList"  # noqa
     URL_AUSER_DELETE_LIST = "https://twitter.com/i/api/graphql/UnN9Th1BDbeLjpgjGSpL3Q/DeleteList"  # noqa
     URL_AUSER_GET_USER_FOLLOWERS = "https://twitter.com/i/api/graphql/ihMPm0x-pC35X86L_nUp_Q/Followers"  # noqa
